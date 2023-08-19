@@ -54,11 +54,7 @@ st.write('\n')
 st.subheader("Summary")
 st.write(
     """
-A results-oriented and versatile developer with a strong foundation in web development and data science. Experience in a wide range of programming languages ​​and technologies, including HTML, CSS, Bootstrap, PHP, C#, R and Azure. It can analyze data and create interactive visualizations using Matplotlib, Plot, Folium, Seaborn, and Streamlight. I can use libraries like BeautifulSoup, Selenium in Python, PyQt, Flask, Numpy, Pandas and more. I continue to develop on machine learning and predictive modeling with Scikit-Learn, XGBoost and PySpark.\n
-
-Extensive database knowledge including MySQL, MSSQL, SQLite and MongoDB. I can offer different perspectives and solutions with my familiarity with tools such as POSTMAN, GIT and JIRA, AGILE methodologies and my experience in different fields.\n
-
-With a proactive mindset and a commitment to continuous learning, I want to contribute to, develop and develop innovative solutions and dynamic projects.
+Experienced developer in web development and data science. Proficient in HTML, CSS, Bootstrap, PHP, C#, R, and Azure. Skilled in data analysis with Matplotlib, Plotly, Folium, Seaborn, and Streamlit. Proficient in Python using BeautifulSoup, Selenium, PyQt, Flask, Numpy, and Pandas. background in machine learning including Scikit-Learn, XGBoost, and PySpark. Well-versed in databases like MySQL, MSSQL, SQLite, and MongoDB. Familiar with tools such as POSTMAN, GIT, and JIRA, applying Agile methodologies for effective teamwork. With a proactive mindset and a commitment to continuous learning, I want to contribute to, develop and develop innovative solutions and dynamic projects
 """
 )
 
@@ -71,7 +67,7 @@ st.write(
 - 📊 Data Visulization: Matplotlib, Plotly, Folium, Seaborn, Streamlit
 - 🗄️ Databases: MSSQL, MongoDB, MySQL, SQLİTE
 - 📶 Network: Network Devices, IP Switchboard Systems And Devices, Cisco Products Installation, Configuration And System Support On 
-- 📚 Tools: Postman,GIT,JIRA,AGILE
+- 📚 Tools: POSTMAN,GIT,JIRA,AGILE
 """
 )
 
