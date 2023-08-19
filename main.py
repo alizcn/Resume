@@ -15,7 +15,7 @@ Software Developer | Data Scientist | Network Systems
 """
 EMAIL = "aliozcan.93@hotmail.com"
 SOCIAL_MEDIA = {
-    "LinkedIn": "linkedin.com/in/ali-özcann",
+    "LinkedIn": "https://linkedin.com/in/ali-özcann",
     "GitHub": "https://github.com/alizcn"
 }
 
